@@ -2,17 +2,17 @@
 Projeto criado em **Flutter** para o teste técnico da BeTalent.
  Uma aplicação Flutter que permite a visualização, busca e gerenciamento de funcionários, integrando-se a uma API para exibição de informações.
 
-📋 Sobre o Projeto
+## 📋 Sobre o Projeto
 O projeto consiste em uma aplicação Flutter que exibe uma lista de funcionários com informações detalhadas, como nome, cargo, data de admissão e telefone. O programa inclui pesquisa em tempo real para facilitar a navegação pelos dados.
 
-Funcionalidades Principais:
+## Funcionalidades Principais:
 - Visualização de uma lista de funcionários com fotos e informações básicas.
 - Detalhes expandidos de cada funcionário.
 - Filtro de pesquisa para busca por nome.
 - Integração com API RESTful para buscar dados dinâmicos.
 - Provider para gerenciamento de estado e separação de lógica de negocios da interface
   
-🛠️ Pré-requisitos
+## 🛠️ Pré-requisitos
 Para rodar o projeto é nescessário ter instalado em sua máquina:
 
 - Flutter SDK
@@ -22,7 +22,7 @@ Para rodar o projeto é nescessário ter instalado em sua máquina:
     - Para o programa acessar os dados da API execute o comando `json-server --watch database.json` na pasta do arquivo `database.json`.
     - Certifique-se de que a API fornecendo os dados dos funcionários esteja ativa no endereço http://localhost:3000/employees
 
-⚙️ Instruções para Rodar a Aplicação
+## ⚙️ Instruções para Rodar a Aplicação
 <ol>
   <li> Clone o Repositório </li>
   <ul>
